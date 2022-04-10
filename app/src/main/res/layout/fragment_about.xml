@@ -203,7 +203,7 @@
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:fontFamily="sans-serif-black"
-                        android:text="Education"
+                        android:text="Certificates"
                         android:textSize="18sp" />
 
                     <RelativeLayout
