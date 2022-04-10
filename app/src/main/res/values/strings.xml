@@ -1,0 +1,88 @@
+<resources>
+    <string name="app_name">CV Builder</string>
+    <string name="forgot"><a href="#">Forgot password?</a></string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="home">Hello home fragment</string>
+    <string name="about">Hello about fragment</string>
+    <string name="contact">Hello contact fragment</string>
+    <string name="experience">Experience</string>
+    <string name="name">Yohanns Nigatu</string>
+    <string name="position">Software Engineer</string>
+    <string name="career_note">
+        Talented software developer with 4 years of experience and a strong education in all aspects of full stack
+application development. History of implementing, deploying, testing, and supporting successful
+applications and embedded systems with high accuracy, maintainability, and performance in the financial
+and healthcare domain.
+    </string>
+
+    <string name="about_me">
+        Talented software developer with extensive hands-on experience and strong educational background in all aspects of full-stack application development. History of implementing, deploying, testing, and supporting successful financial applications and embedded systems with high accuracy, maintainability, and performance. As technologies are changing on a daily basis, I\'m always motivated to learn and adapt to new skills.
+    </string>
+    <string name="work_experience">
+        <b>Languages:</b> Java\n
+<b>Web:</b> HTML5, CSS3, JavaScript, WordPress, AJAX, jQuery, Bootstrap\n
+        <b>Web Services:</b> REST\n
+<b>Web/App Servers:</b> XAMPP, Tomcat\n
+        <b>Frameworks:</b> NodeJS, ExpressJS, Spring Boot, ReactJS, AngularJS, Angular, Hibernate\n
+        <b>Databases:</b> MySQL, MS SQL, MongoDB, Oracle\n
+<b>Design Patterns:</b> Singleton, Factory, Template\n
+<b>SDLC:</b> Agile-Scrum, Extreme Programming(XP)\n
+<b>Tools:</b> NetBeans, Eclipse, IntelliJ, VS Code, Visual Studio, Trello, MS Visio, Sublime Text, Maven, Git,
+JUnit, Selenium\n
+        <b>Platforms:</b> Windows, Linux
+    </string>
+    <string name="projects">
+        <b>MEAN Travelers Guide, MIU (2021):</b> Individually designed and developed a MEAN application which
+provides detailed tourism guides for many countries. Technologies Used: NodeJS, ExpressJS,
+MongoDB, AngularJS, Bootstrap, CSS, HTML, Visual Studio Code, Postman, Git\n
+        <b>Web Store, MIU (2021):</b> Developed an online e-commerce system where employees may manage
+product listings and customers have a smooth shopping experience. Technologies Used: Spring Boot,
+JUnit, MongoDB, React, Bootstrap, CSS, Visual Studio Code, IntelliJ, Postman, Selenium, Git
+    </string>
+
+    <string name="miu">Maharishi International University</string>
+    <string name="msc_major">Master of Computer Science</string>
+    <string name="aait">Addis Ababa Institute of Technology</string>
+    <string name="bsc_major">Electrical and Computer engineering (Computer) Bsc.</string>
+
+    <string name="devOps_certification">DevOps engineer Certification (2021)</string>
+    <string name="spring_cloud_certification">Spring cloud (2022)</string>
+    <string name="aws_certification">Amazon web services AWS (2022)</string>
+
+    <string name="cvs">CVS Health</string>
+    <string name="apple">CVS Health</string>
+    <string name="cvs_duration_location">Sep 2021 - Present (IL,USA)</string>
+    <string name="apple_duration_location">Jan 2021 - Sep 2021 (CA,USA)</string>
+    <string name="cvs_responsibility">
+        Met all project specifications and requirements for project development.\n
+• Designed and developed server-side of recommendation service using Spring Boot \n
+• Responsible for developing the code, involved in Agile Extreme programming practices like
+Scrum, Pair Programming, TDD, Continuous Integration.\n
+• Involved in design and development of UI component, using frameworks Angular, JavaScript,
+HTML5, CSS3.\n
+• Tested, troubleshot, and deployed finalized applications.\n
+• Provided support for errors and technical issues.\n
+    </string>
+    <string name="apple_responsibility">
+Developed new applications and modified existing systems for POS machines.\n
+• Met all project specifications and requirements for project development.\n
+• Designed aesthetic user interfaces and implemented functional algorithms.\n
+• Tested, troubleshot, and deployed finalized applications.\n
+• Customized existing applications to meet new business needs.\n
+• Provided support for errors and technical issues in both hardware and software.\n
+• Trained client employees and end-users on new versions and features.\n
+    </string>
+
+    <string name="phone_number">571-397-8386</string>
+    <string name="email_address">ynigatu@miu.edu</string>
+    <string name="linkedin">Yohanns Nigatu</string>
+    <string name="linkedin_id">https://www.linkedin.com/in/yohanns-nigatu/</string>
+    <string name="github_id">https://github.com/jocha50</string>
+    <string name="github">\@JoCha50</string>
+
+
+
+
+
+
+</resources>

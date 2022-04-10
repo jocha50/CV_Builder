@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/linkedIn"
+        android:icon="@drawable/linkedin_logo"
+        android:title="LinkedIn"
+        app:showAsAction="ifRoom"></item>
+    <item
+        android:id="@+id/currentUser"
+        android:icon="@drawable/ic_baseline_about_me"
+        android:title="User"
+        app:showAsAction="ifRoom">
+        <menu>
+            <item android:title="Profile" android:id="@+id/userProfile"></item>
+            <item android:title="Network" android:id="@+id/userNetwork"></item>
+        </menu>
+    </item>
+    <item
+        android:id="@+id/logOut"
+        android:icon="@drawable/ic_baseline_login"
+        android:title="Log out"
+        app:showAsAction="never"></item>
+</menu>
